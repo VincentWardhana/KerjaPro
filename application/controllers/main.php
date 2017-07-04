@@ -226,15 +226,14 @@ class Main extends CI_Controller {
 					// }
 				}
 				
-				
 			}
 		}
 	}
-	
+	/* 
 	public function employeeregistration()
 	{
 		$this->load->view('registrasi_pelamar');
-	}
+	} */
 	
 	public function companyregistration()
 	{

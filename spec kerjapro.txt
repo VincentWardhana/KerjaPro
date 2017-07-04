@@ -1,0 +1,18 @@
+Home page berubah semua -> pembagian segmen di awal, sebagai perusahaan atau pelamar?
+scroll ke bawah ada “apa kata mereka tentang kerjapro” , “apa itu kerjapro ?”, “mitra”
+register jadi pelamar -> field ikutin yg sudah ada, dan tambahkan skill serta training yg pernah diikutin + bisa upload cv (optional)
+filter di kiri, seperti bhinneka -> kategori pekerjaan, lokasi, salary (?)
+mitra bisa upload logo -> pilih logo untuk ditampilkan di home page
+pelamar cmn bisa update data
+perusahaan register -> bisa search pelamar
+dibikin di backend apabila someday mau stop free in perusahaan
+notifikasi di pelamar -> berapa banyak perusahaan yg visit
+di navbar setelah login fotonya tampil di depan dengan tulisan me dibawahnya, -> seperti linkedin
+
+
+payment -> bank transfer
+kategori perusahaan -> free, bronze, silver, gold, diamond
+
+ada wishlist -> jadi setelah perusahaan melihat pelamar maka dia akan bisa menambahkan pekerja tersebut ke wishlist atau tidak.
+
+15 NEXT MEETING -> UDH READY MAJORNYA, TINGGAL MINOR

@@ -220,18 +220,15 @@ class Main extends CI_Controller {
 					{
 						redirect("index.php/main/index");
 					}
-<<<<<<< HEAD
-					 else
-					 {
-					 	redirect("index.php/main/checkout1");
-=======
 					else
 					{
 						redirect("index.php/main/checkout1");
->>>>>>> a094038c6fa9fd9c95b58542f51dcaf560c2081c
+					}
+					else
+					{
+						redirect("index.php/main/checkout1");
 					}
 				}
-				
 			}
 		}
 	}

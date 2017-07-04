@@ -220,20 +220,20 @@ class Main extends CI_Controller {
 					{
 						redirect("index.php/main/index");
 					}
-					// else
-					// {
-					// 	redirect("index.php/main/checkout1");
-					// }
+					else
+					{
+						redirect("index.php/main/checkout1");
+					}
 				}
 				
 			}
 		}
 	}
-	/* 
+	
 	public function employeeregistration()
 	{
 		$this->load->view('registrasi_pelamar');
-	} */
+	}
 	
 	public function companyregistration()
 	{
